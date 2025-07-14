@@ -6,8 +6,8 @@ A **console-based** Java application using **JDBC** and **MySQL** to manage cust
 
 ## 🚀 Tech Stack
 - 🇯🇵 Java 8+  
-- 🔗 **JDBC (Java Database Connectivity)** – the standard API in Java for interacting with relational databases like MySQL—it allows your application to connect, query, and manipulate data using SQL commands :contentReference[oaicite:1]{index=1}  
-- 🐬 **MySQL 8.x** – a widely used open-source relational database system designed for efficiency and scalability :contentReference[oaicite:2]{index=2}  
+- 🔗 **JDBC (Java Database Connectivity)** – the standard API in Java for interacting with relational databases like MySQL—it allows your application to connect, query, and manipulate data using SQL commands  
+- 🐬 **MySQL 8.x** – a widely used open-source relational database system designed for efficiency and scalability   
 - ✅ No frameworks—pure Java + database (no Spring, Hibernate, or other abstraction layers)
 
 ---
